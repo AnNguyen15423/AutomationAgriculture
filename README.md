@@ -1,4 +1,4 @@
-Smart Irrigation System
+                                                                                          Smart Irrigation System
 Introduction
 Welcome to our Smart Irrigation System project! Our aim is to revolutionize the way you manage your garden or farm by automating the irrigation process using cutting-edge technology. By integrating various sensors and advanced control mechanisms, our system ensures that your plants receive the optimal amount of water at all times, leading to healthier growth and conservation of resources.
 
@@ -39,10 +39,9 @@ Upload the ESP32 code provided in this repository to your microcontroller.
 Ensure proper pin mappings and sensor calibration for seamless operation.
 Power on the system and monitor sensor data through the LCD display or the Blynk app.
 Enjoy hassle-free irrigation management with our Smart Irrigation System!
+
 Contributions
 We welcome contributions from the community! Whether it's bug fixes, enhancements, or new features, feel free to submit your contributions via pull requests. Together, let's make gardening smarter and more sustainable.
 
-License
-This project is licensed under the MIT License.
 
 Join us in revolutionizing irrigation practices with technology and innovation! Happy gardening! 🌱💧🌞
